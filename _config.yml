@@ -1,29 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 
-
-
-
-layout: default
-title: Resources
-nav_order: 2
-
-layout: defualt
-title: Our Approach
-nav_order: 3
-
-layout: default
-title:  Our Style
-nav_order: 4
-
-layout: default
-title: Personas
-nav_order: 5
-
-layout: default
-title: Content Types
-nav_order: 6
-
-
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
