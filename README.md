@@ -7,6 +7,35 @@ This guide helps writers create content that’s easy to understand and meets pe
 This guide takes that frustration into account, as well as several commonly supported guidelines about writing for the web.  Using this guide can help content designers benefit from our experience to date, incorporate user feedback into the editorial process, and build trust by communicating in a consistent manner.
 ### If you work at Defions Solutions
 We created this guide for reference on an as-needed basis.  It’s here when you’re wondering whether to capitalize the word federal, for instance or when you’re wondering how to create a friendly, informational tone.
+
+## Resources
+We adapted this guide from GOV.UK’s work, and we’d like to thank their content team for championing plain language and information accessibility.
+### Style guides
+We generally follow AP style unless otherwise noted.
+As we created this guide, we also referred to these resources:
+- The U.S. Government Publishing Office
+- Conscious Style Guide
+- Plain Language Action and Information Network
+- USAGov Bilingual Style Guide
+- Disability Language Style Guide
+- Diversity Style Guide
+- GLAAD Media Reference Guide
+- MailChimp Content Style Guide
+### Related links
+- 18F Accessibility Guide
+- 18F Visual Identity Guide
+- U.S. Web Design System
+- 18F Blog: Content Design
+- DigitalGov: Style Guides by Government Agencies
+
+
+
+
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
