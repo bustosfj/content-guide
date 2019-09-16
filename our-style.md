@@ -276,7 +276,7 @@ Let’s consider three examples that target three different reader groups. Obitu
 
 ## NEED TO FIX
 | Type of writing | Intended readership | Tone | Example |
-|:--------------------|:---------------------|:--------------------|:--------------------------------------------|
+|:-------------------------|:--------------------------|:--------------------|:--------------------------------------------|
 |Obituary of a prominent community member |People who knew (or knew of) the deceased |Respectful, reverent, somber |	“Professor Pelham was respected by his colleagues and revered by students, many of whom would wake before dawn on registration day to ensure gaining entry to his classes. His wit, gentle humor, and compassion left their mark on everyone he talked to.”|
 |Blog post announcing open source documentation guide	|Developers and other readers with a strong tech background |Direct, impartial |“The Open Source Style Guide is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that your open source code repositories are accessible both internally and externally." |
 |Marketing email from the boutique bridal department of a well-known clothing company |Newly engaged women (ages 28 through 33) |Enthusiastic, earnest, bubbly |“Say ‘I do!’ to 25% off. Now through July 3rd, take an additional 25% off all bridal wear and accessories. Celebrate your big day in style (and get a jumpstart on your honeymoon fund!).” |
