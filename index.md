@@ -4,7 +4,6 @@ title: How to use this guide
 nav_order: 1
 ---
 
-
 # How to use this guide
 This guide was developed for colleagues of Defions Solutions. 
 
