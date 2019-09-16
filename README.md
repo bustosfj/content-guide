@@ -6,6 +6,7 @@ How to plan, write, and manage content at Defions
 - [Resources](http://content-guide.defions.solutions/resources)
 - [Our Approach](http://content-guide.defions.solutions/our-approach)
 - [Our Style](http://content-guide.defions.solutions/our-style)
+- [Personas](http://content-guide.defions.solutions/personas)
 - [Content Types](http://content-guide.defions.solutions/content-types)
 
 
