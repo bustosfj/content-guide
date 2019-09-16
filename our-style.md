@@ -188,48 +188,48 @@ Avoid using the slash / symbol.  Replace it with words or commas as appropriate.
 
 ### Specific words and phrases
 Below are rules for how we use common words and phrases.  The bold term shows the accepted form (capitalization, hyphenation, punctuation), with accompanying text explaining usage.
-- Defions colleagues, Defions team members, or Defions staffers. Avoid all iterations of Defions-r.
-- ages, avoid hyphens in ages unless it clarifies the text.  For example, a group of 10 18-year-old White House tourists.
-- agile
-- a.m.
-- back end, back-end development
-- Congress refers to the U.S. Senate and House of Representatives.
-- congressional is lowercase unless part of a proper name.  For example, Congressional Record
-- DC, not D.C.
-- DevOps
-- digital coalition
-- drop-down when used as an adjective.  For example, drop-down menu. drop down when used as a noun.  For example, an option from the drop down. Never dropdown.
-- email, not e-mail
-- executive branch
-- federal, unless part of a proper noun.  For example, Federal Bureau of Investigation
-- federal government, not Federal Government or Federal government
-- fiscal year is lowercase.  It’s okay to abbreviate as FY on the second reference.
-- front end, front-end developer
-- GitHub
-- government, unless part of a proper noun.  For example, Government Printing Office
-- homepage
-- human-centered design, but we prefer user-centered design to describe Defions principles and work.
-- info is an acceptable shortening of information.  In formal situations, use the full word.
-- internet
-- JavaScript
-- kanban
-- login when used as noun, for example, I forgot my login name and password, or when used as an adjective, for example Make sure the login page is 508 complaint. log in when used as a verb, for example, Log in to access your calendar.
-- open source, open source software
-- percent is preferred more than the % symbol.  For example, 10 percent of respondents.
-- p.m.
-- README
-- Scrum should be used to refer to the set of practices for the agile method.  We don’t use that term for the daily meetings and instead use daily standup.
-- single sign-on
-- sitemap
-- startup
-- tech is an acceptable shortening of technology.  In formal situations, use the full word.
-- to do (noun) and to-do (adjective).  For example, your to dos or your to-do list.
-- United States government or U.S. government, not U.S. Government
+- **Defions colleagues**, **Defions team members**, or **Defions staffers**. Avoid all iterations of Defions-r.
+- **ages**, avoid hyphens in ages unless it clarifies the text.  For example, a group of 10 18-year-old White House tourists.
+- **agile**
+- **a.m.**
+- **back end**, **back-end development**
+- **Congress** refers to the U.S. Senate and House of Representatives.
+- **congressional** is lowercase unless part of a proper name.  For example, Congressional Record
+- **DC**, not D.C.
+- **DevOps**
+- **digital coalition**
+- **drop-down** when used as an adjective.  For example, drop-down menu. **drop down** when used as a noun.  For example, an option from the drop down. Never dropdown.
+- **email**, not e-mail
+- **executive branch**
+- **federal**, unless part of a proper noun.  For example, Federal Bureau of Investigation
+- **federal government**, not Federal Government or Federal government
+- **fiscal year** is lowercase.  It’s okay to abbreviate as FY on the second reference.
+- **front end**, **front-end developer**
+- **GitHub**
+- **government**, unless part of a proper noun.  For example, Government Printing Office
+- **homepage**
+- **human-centered design**, but we prefer user-centered design to describe Defions principles and work.
+- **info** is an acceptable shortening of information.  In formal situations, use the full word.
+- **internet**
+- **JavaScript**
+- **kanban**
+- **login** when used as noun, for example, I forgot my login name and password, or when used as an adjective, for example Make sure the login page is 508 complaint. **log in** when used as a verb, for example, Log in to access your calendar.
+- **open source**, **open source software**
+- **percent** is preferred more than the % symbol.  For example, 10 percent of respondents.
+- **p.m.**
+- **README
+- **Scrum** should be used to refer to the set of practices for the agile method.  We don’t use that term for the daily meetings and instead use daily standup.
+- **single sign-on**
+- **sitemap**
+- **startup**
+- **tech** is an acceptable shortening of technology.  In formal situations, use the full word.
+- **to do** (noun) and **to-do** (adjective).  For example, your to dos or your to-do list.
+- **United States government** or **U.S. government**, not U.S. Government
 - URLs should be lowercase, even when they appear at the start of a sentence.  For example, notalone.gov launched today.
-- U.S., not US or USA
-- user-centered design, preferred term over human-centered design to describe Defions principles and work.
-- U.S. Web Design System on first use and Design System on subsequent references
-- Wi-Fi
+- **U.S.**, not US or USA
+- **user-centered design**, preferred term over human-centered design to describe Defions principles and work.
+- **U.S. Web Design System** on first use and **Design System** on subsequent references
+- **Wi-Fi**
 
 ### Voice and tone
 If you’re like many folks, you might not be sure of the difference between voice and tone.  Maybe you’ve never deliberately crafted a voice and don’t know where to start.  Not to fret!  In this section, we’ll discuss the differences between voice and tone, how we describe our organizational voice, how to establish your own voice, and how to choose a tone that’s appropriate for whatever you’re writing.
@@ -276,7 +276,7 @@ Let’s consider three examples that target three different reader groups. Obitu
 
 ## NEED TO FIX
 | Type of writing | Intended readership | Tone | Example |
-|:-------------------------|:--------------------------|:--------------------|:--------------------------------------------|
+|:-------------------------|:--------------------------|:---------------|:--------------------------------------------|
 |Obituary of a prominent community member |People who knew (or knew of) the deceased |Respectful, reverent, somber |	“Professor Pelham was respected by his colleagues and revered by students, many of whom would wake before dawn on registration day to ensure gaining entry to his classes. His wit, gentle humor, and compassion left their mark on everyone he talked to.”|
 |Blog post announcing open source documentation guide	|Developers and other readers with a strong tech background |Direct, impartial |“The Open Source Style Guide is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that your open source code repositories are accessible both internally and externally." |
 |Marketing email from the boutique bridal department of a well-known clothing company |Newly engaged women (ages 28 through 33) |Enthusiastic, earnest, bubbly |“Say ‘I do!’ to 25% off. Now through July 3rd, take an additional 25% off all bridal wear and accessories. Celebrate your big day in style (and get a jumpstart on your honeymoon fund!).” |
