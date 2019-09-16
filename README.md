@@ -102,6 +102,7 @@ Another temptation that can hurt readability is figurative language: it often do
 - drive out (unless it’s cattle)
 - going forward (unless you’re giving directions)
 - one-stop shop (we’re the government, not a big box store)
+
 In most cases, you can avoid these figures of speech by describing what you’re actually doing. Be open and specific.
 If you’re struggling to use plain language, try writing conversationally. Picture your audience and write as if you were talking to them one-on-one, with the authority of someone who can actively help.
 #### Don’t use formal or long words when easy or short ones will do.  
@@ -172,6 +173,7 @@ Use:
 - Campaign finance law explained
 
 If you’re wrangling a lot of data, tables can help you visualize that content.  Long paragraphs cluttered with numbers or dates are more difficult to scan than, for example:
+## NEED TO FIX
 Report type  |  Dates covered  |  Due
 Quarterly (Form 3, 3Z, 3L)  |  January 1–March 31  |  April 15
 April 1–June 30	July 15
@@ -206,6 +208,7 @@ You can also review:
 - User feedback from surveys, call center logs, and support emails
 - Recurring themes from channels like Twitter, Facebook, and tech blogs
 You should make a habit of listening to users, too.  Conduct usability testing sessions regularly to understand how people access, use, and interpret key pieces of content on your site.  
+
 #### Additional resources
 - Testing Content, A List Apart
 - What Does This Mean? Tips for Testing Your Words, GDS Blog
@@ -234,6 +237,7 @@ If you genuinely need to delete something, give users a path to find what they n
 - Keeping content around and adding context that it is depreciated or no longer maintained
 - Making the content available elsewhere with an archiving service like the National Archives and Records Administration’s Government Web Harvests or the Internet Archive
 - Custom 404 pages to help users find what they’re looking for
+
 #### Additional resources
 - Guidance on Managing Web Records, National Archives and Records Administration
 - Withdrawing and Unpublishing Content, and Labelling Content from Previous Governments, GOV.UK
@@ -269,6 +273,7 @@ Ask questions to help the writer revise:
 - How does this help the reader?
 - What’s the most important thing for people to understand?
 - What do we want readers to do next?
+
 When people ask for feedback, they’re looking for your thoughts on what aspects of their work could be stronger.  Even as you offer kindly worded suggestions for improvement, it’s nice to comment on what’s working in a piece, too.  Everyone likes to receive recognition for what they’ve done well.  Plus, you don’t want them to unknowingly change what’s working — sharing positive feedback can prevent them from doing so.
 Everyone needs feedback, even professional writers.  Don’t second-guess yourself as the reader. You don’t have to have the solution or right answer.  Ask questions, let the writer know if something doesn’t make sense, and tell them what you like.  Finally, thank them for asking for your feedback. It’s not easy, and it shows that they care about the work and their reader.
 #### How to receive feedback
@@ -282,6 +287,7 @@ High-level edits:  Observations about a piece’s general concept, structure, an
 If your piece needs additional context, share it.  There are all types of context that might be helpful: background information, strategies that have been tried in the past (and since abandoned), any legal considerations, audience needs or insights from research, or variations between our house style and a client’s content conventions.
 If you have a deadline, be honest and realistic about it.  And if you’re unsure about how long it will take your reader to give feedback, be honest about that, too — it’s OK to ask them whether your expectations align with their timeframe.
 Lastly, show appreciation.  Giving feedback takes time and energy. Thank the person for taking the time to read your piece and share their thoughtful observations.  Consider sharing the end result with them so they can see how their feedback helped you.
+
 #### Additional resources
 - You’re My Favorite Client, Chapter 4 by Mike Monteiro. It’s available on Safari Books.
 - Questions I ask when reviewing design, Jason Fried
@@ -327,6 +333,7 @@ Along with deemphasizing who should take an action, the passive voice is usually
 - Passive:  The case number should be saved in your records. It will be required for future inquiries.
 - Active:  Save the case number in your records.  You will need it for future inquiries.
 When in doubt, cut directly to the verb and give the reader clear directions.
+
 #### How to recognize the passive voice
 Use of the passive voice is common enough that many people don’t notice when they use it.  Here’s a simple way to recognize it, courtesy of Dr. Rebecca Johnson: If you insert “by zombies” after the verb and the sentence still makes sense, you’re using the passive voice.
 #### When to use the passive voice
@@ -345,6 +352,7 @@ Creating trustworthy internal and external communications relies, to a large ext
 When you’re deciding whether to capitalize noun phrases, keep in mind that in English, title case is often a marker of formality.  Using it judiciously can help clarify that you’re speaking about a specific, official thing (such as a form, office, or person).  Overuse can cause users stress by implying formality or officialness where it doesn’t exist. For instance:
 - It makes sense to capitalize the phrase Form 1040, U.S. Individual Income Tax Return because you want users to know the exact, official title of that specific form.
 - It could confuse users to capitalize income taxes or income tax forms, because those phrases could refer to any number of possible forms.
+
 See additional capitalization rules in the Specific words and phrases section.
 #### Personal titles
 Don’t capitalize personal titles unless they precede a name. For example, the director got approval or Director Lopez got approval. Whenever possible, keep titles gender neutral.  For example, we prefer firefighter to fireman and chairperson to chairman.
@@ -361,6 +369,7 @@ This guidance is influenced by the Conscious Style Guide, which is an excellent 
 - Disability Language Style Guide
 - Associated Press Stylebook
 - Syracuse University Disability Cultural Center Language Guide
+
 This page is not exhaustive, but aims to provide principles, resources, and specific suggestions for writing and talking about diverse groups of people.
 #### Ability and disability
 Every person is a whole person — no matter how they interact with the world. Focus on what they need to do, what tools they use, and avoid making assumptions.  If a person’s situation, medical condition, illness, or injury is relevant to the content, be as specific as possible and avoid inserting value judgements about their circumstance (for example, use has multiple sclerosis, not is afflicted with or suffers from).
@@ -368,10 +377,12 @@ Just like with language around race, gender, or other identities, it’s always 
 - Avoid describing people as disabled, handicapped, or confined to a wheelchair.
 - Avoid terms that contribute to stigmas around disability or mental illness: crazy, dumb, lame, insane, psycho, schizophrenic, or stupid.
 - Avoid terms that contribute to stigmas around sensory disabilities: blind spot or tone deaf.
+
 #### Age
 Avoid referring to someone’s age, unless it’s relevant to what you’re writing about (for example, when referring to benefits that are available to people of certain ages).
 - Don’t use women or older relatives as substitute for novice or beginner.  For example, don’t say something is so simple your mother can use it.
 - We prefer older person or senior to elderly.
+
 ### Gender and sexuality
 Make content gender neutral wherever possible, and strive to write in a gender-fair way.  If you’re writing about a hypothetical person or if you’re unsure of the person’s pronouns, use they or them instead of he/she.
 Avoid words and phrases that indicate gender bias, such as irrelevant descriptions of appearance.
@@ -380,13 +391,16 @@ Use descriptors of gender identity or sexual orientation as modifiers, not as no
 - We support using they or their as singular pronouns.
 - Avoid guys as a way to refer to mixed-gender groups.
 - Don’t make assumptions about marital or family relationships (for example, use spouse or partner instead of husband and wife; use parent instead of mother and father).
+
 For more detailed guidance, see the National Lesbian and Gay Journalists Association Style Guide or the GLAAD Media Reference Guide.
 #### Nationality
 Avoid using citizen as a generic term for people who live in the United States.  Many government programs serve non-citizens and individuals with a wide range of immigration and visa statuses.
 - How you refer to the public is largely dependent on context.  Feel free to choose from any of these words:  people, the public, users, or folks.
 - Be as specific as possible.  Depending on the situation, you may want to say something like people who need healthcare or people who need to access government services online.
 - Use citizens for information related to U.S. citizenship, for example, when describing who is eligible to vote in federal elections.
-- Be careful with Americans or the American public. These terms are ambiguous and are often used as synonyms for citizens. In most cases, the public is equally clear and more inclusive. That said, referring to Americans or the American people can be useful if you want to inspire readers or take a more patriotic tone.
+- Be careful with Americans or the American public. These terms are ambiguous and are often used as synonyms for citizens. 
+
+In most cases, the public is equally clear and more inclusive. That said, referring to Americans or the American people can be useful if you want to inspire readers or take a more patriotic tone.
 #### Race, ethnicity, and religion
 Avoid using words, images, or situations that reinforce racial, ethnic, or religious stereotypes (even stereotypes that may appear to be positive). Avoid the term non-white, or other terms that treat whiteness as a default.
 Don’t make assumptions: ask how people identify themselves, and be aware of complexities within racial, ethnic, and religious identities.  For example, not all Arabs are Muslim, and many nationalities and ethnicities include various religious practices and traditions.
@@ -396,6 +410,7 @@ When referring to a person’s race or ethnicity, use adjectives, not nouns (for
 - Asian American Journalists Association Handbook
 - Native American Journalists Association Reporter’s Indigenous Terminology Guide
 - Religion Newswriters Association’s Religion Stylebook
+
 ### Names
 #### Personal names
 Use full names on first reference.  On second reference, use first names when writing about our teams or our work, and otherwise follow AP style (which is to mostly use last names on second reference).
@@ -404,6 +419,7 @@ If the context means that there’s a chance of confusion on second reference wh
 - Spell out state names, such as Mississippi.
 - When referring to a number of states, “state” should be lowercase. For example, All 50 states responded.
 - When used with a city, spell out the name of the state.  For example, Atlanta, Georgia.
+
 ### Numbers and percentages
 #### Numbers
 Generally speaking, we follow the guidelines outlined in the AP Stylebook.  In body copy, we prefer to spell out numbers one through nine, and use numerals for numbers 10 and greater.  This is true of ordinal numbers, as well. Spell out first to ninth, and capture 10th or greater with numerals.
@@ -428,6 +444,7 @@ When you go to the store, please buy:
 When you leave the house:
 - Please buy apples, bananas, and naan chips.
 - Fill the car with gas.
+
 #### Colons
 Capitalize the first word after a colon, only if what follows is a complete sentence.  For example:
 I have several favorite foods:  apples, bananas, and naan chips.
@@ -508,6 +525,7 @@ At Defions, we like to communicate in a friendly, straightforward way. We consid
 - Friendly
 - Instructive
 - Welcoming to all audiences
+
 We believe that government communication can — and should — be fun and easy to read, and our voice represents this.
 Here are a few sentences, taken from this content guide, that exemplify our voice:
 - We created this guide for reference on an as-needed basis.  It’s here when you’re wondering whether to capitalize the word federal, for instance, or when you’re wondering how to create a friendly, informational tone.
