@@ -29,7 +29,7 @@ As we created this guide, we also referred to these resources:
 - 18F Blog: Content Design
 - DigitalGov: Style Guides by Government Agencies
 
-##Our Approach
+## Our Approach
 Tips and standards for developing user-centered content.
 ### Content principles
 #### Start with user needs.
@@ -193,9 +193,118 @@ Ask yourself:
 - Is it clear and up-to-date?
 If people are asking similar questions, the existing content isn’t meeting their needs.  Perhaps you need to rewrite it or combine several pieces of content. Pay attention to what users are asking for and find the best way to guide them through the process.
 
+### Keep refining
+Content design is an ongoing process, and even published content isn’t really “done,” in a traditional sense — it’s not a static entity.  To ensure that your content is helping users, you need to keep refining it over time.
+When you’re creating content, it’s best to base your refinements on insights from users.  This section addresses ways to test your content’s effectiveness and includes tips for archiving and deleting content without disrupting the user experience.
+#### Testing and ongoing research
+Set aside time regularly to make sure your content works for users.  If you’re not sure where to start, check your web analytics to identify:
+- Pages with high or low traffic
+- Pages with high or low reading times
+- Common search terms
+- Common user flows within your site
+You can also review:
+- User feedback from surveys, call center logs, and support emails
+- Recurring themes from channels like Twitter, Facebook, and tech blogs
+You should make a habit of listening to users, too.  Conduct usability testing sessions regularly to understand how people access, use, and interpret key pieces of content on your site.  
+#### Additional resources
+- Testing Content, A List Apart
+- What Does This Mean? Tips for Testing Your Words, GDS Blog
+- Testing Web Content for Accessibility, WebAim
+- Cloze Test for Reading Comprehension, Nielsen Norman Group
 
+### Archiving and deleting content
+You may occasionally need to archive or delete outdated content.  Maybe it’s irrelevant after a recent policy change or redundant with other pages on your site.  Avoid moving or deleting content without a good reason, because it can cause a lot of frustration for users.  Changes to site structure may also slow down users who’ve learned specific navigation paths on your site.
+As part of ongoing site maintenance, you should audit your content to keep everything updated and identify potential duplication.  Depending on the size of your site, you may want to review everything on a yearly basis, for example, or look at one or two sections at a time.
+Before you archive or delete anything, review your site analytics to understand how users are accessing the content now, and check in with the content owner or author to come up with a plan together.  Be sure to consider cases that may not show up in analytics data too, such as:
+- Search engine results
+- User bookmarks
+- Links from external sites
+Each of these can be addressed by ensuring you have redirects from the old URLs to the latest content.
+When you’re looking at a particular page, think about the best way to meet user needs:
+- Who is this content for?
+- Is there a legal requirement for having it?
+- How often do people visit this page?
+- Are there any incoming links to it, either within your site or from popular referrers?
+- Are there other pages that cover this topic? Can you combine them? Which one shows up higher in search results?
+- Can you hide or archive the page instead of deleting it?
+- Was this content meant to expire quickly? Was the website the right channel for this type of content — or should posts like this move to a blog, newsletter, or social media account in the future?
+If you genuinely need to delete something, give users a path to find what they need.  This could include:
+- URL redirects
+- Ceding ownership of the content to another organization who can maintain it
+- Keeping content around and adding context that it is depreciated or no longer maintained
+- Making the content available elsewhere with an archiving service like the National Archives and Records Administration’s Government Web Harvests or the Internet Archive
+- Custom 404 pages to help users find what they’re looking for
+#### Additional resources
+- Guidance on Managing Web Records, National Archives and Records Administration
+- Withdrawing and Unpublishing Content, and Labelling Content from Previous Governments, GOV.UK
+- Unpublishing and Withdrawing (‘Archiving’), GOV.UK
+- Best Practice for Archiving and Deleting Content, Content Strategy Inc.
+- How Should You Handle Expired Content?, Moz
 
+### Giving and receiving feedback
+Giving and receiving feedback on writing is hard.  Both need your time, energy, and care.  That may feel daunting.  But we all want our work to be strong and it only gets better with feedback.
+The beauty of the writing process is that it’s iterative — everyone (yes, everyone) writes crappy first drafts.  The important thing is to share the draft, gather feedback, revise, and repeat.  Even published content isn’t really “done.”  It’s important to keep refining, and incorporating feedback from your readers is part of that process.
+Here are some ways to approach giving and receiving writing feedback.
+#### How to give feedback
+Start by reading the piece in its entirety before editing or making comments.  Though you may be tempted to give line edits on an early draft, resist this temptation!  It’s likely that much of the text will change from draft to draft, so your line-editing work may be lost by the final draft. Focus on the central goal or message of the piece—not specific wording or stylistic decisions.  If you find yourself needing to comment on structural issues or key messages, it’s probably worth setting up a meeting to talk through things.
+As you read, think about the answers to the following questions:
+- Is it clear?
+- Is it easy to follow?
+- Are there any gaps or places you get lost?
+- How might someone feel after reading this?
+- Does it leave you with any questions?
+- Are there any places that could use a story or concrete examples?
+- Does it assume knowledge that the reader might not have?
+Respond as a reader and tell the writer:
+- What doesn’t feel right
+- What doesn’t make sense
+- What isn’t working — and what is!
+- What you want to know more or less about, and why
+- What questions you have
+- What doesn’t reflect your own experience
+Ask questions to help the writer revise:
+- Who is the audience?
+- Why does this matter?
+- What does this mean?
+- How does this help the reader?
+- What’s the most important thing for people to understand?
+- What do we want readers to do next?
+When people ask for feedback, they’re looking for your thoughts on what aspects of their work could be stronger.  Even as you offer kindly worded suggestions for improvement, it’s nice to comment on what’s working in a piece, too.  Everyone likes to receive recognition for what they’ve done well.  Plus, you don’t want them to unknowingly change what’s working — sharing positive feedback can prevent them from doing so.
+Everyone needs feedback, even professional writers.  Don’t second-guess yourself as the reader. You don’t have to have the solution or right answer.  Ask questions, let the writer know if something doesn’t make sense, and tell them what you like.  Finally, thank them for asking for your feedback. It’s not easy, and it shows that they care about the work and their reader.
+#### How to receive feedback
+It’s natural to feel timid about sharing your work, especially if it’s an early draft.  But sharing work early in the writing process has great benefits.  Your colleagues can help you identify the strengths and weaknesses of your piece, which can help you narrow your focus and determine which sections need the most work.  Likewise, your colleagues can point out interesting areas that you could expand on.
+If you’re apprehensive about sharing your work, it can be helpful to label documents as drafts to help frame your readers’ expectations and perceptions.  For example: ‘First draft: Giving feedback on writing.’ Sharing drafts with one person, rather than a larger group, can also help you ease into the process.
+First, be clear about the type of feedback you’re looking for to ensure you get comments that are useful for the stage of writing you’re in. Here’s a summary of some types of feedback you can ask for and at what stage:
+- Collaborative:  These are some initial rough ideas—feel free to dig in and change anything.
+High-level edits:  Observations about a piece’s general concept, structure, and intent — are most useful for early drafts.  Are the big ideas coming through? Does the structure make sense? Is the flow logical?
+- Line edits:  Better suited to later, more finalized drafts, whose ideas are fleshed out and which could benefit from some polish. How’s the voice and tone? Is the writing clear and consistent? What doesn’t make sense?
+- Copyediting:  We’re about to publish this — are there typos or awkward phrases?
+If your piece needs additional context, share it.  There are all types of context that might be helpful: background information, strategies that have been tried in the past (and since abandoned), any legal considerations, audience needs or insights from research, or variations between our house style and a client’s content conventions.
+If you have a deadline, be honest and realistic about it.  And if you’re unsure about how long it will take your reader to give feedback, be honest about that, too — it’s OK to ask them whether your expectations align with their timeframe.
+Lastly, show appreciation.  Giving feedback takes time and energy. Thank the person for taking the time to read your piece and share their thoughtful observations.  Consider sharing the end result with them so they can see how their feedback helped you.
+#### Additional resources
+- You’re My Favorite Client, Chapter 4 by Mike Monteiro. It’s available on Safari Books.
+- Questions I ask when reviewing design, Jason Fried
+- Writing Comments in the Margins, Washington University
+- The Power of Bad Ideas, Steve Portigal
 
+### Make content web-friendly
+One of the simplest ways to present accessible, maintainable information online is to use HTML.
+It can be tempting to choose file formats that are more convenient for the author, such as PDF or Word.  However, presenting content in PDF, Word, or similar formats can make content much harder to use.
+Therefore, we strongly recommend using HTML for all web content. Here are some of the benefits:
+- It’s much easier to link to specific pages or sections of HTML pages.
+- It’s much easier to update and maintain HTML content.
+- HTML content avoids breaking the user out of their browsing flow, and maintains the context of the site’s navigation and structure. Conversely, this often means that HTML pages are easier to re-find and less likely to be “orphaned” or left online beyond their usefulness.
+- All web content should be accessible, and this is much easier to accomplish and enforce with HTML content. It is possible to create accessible PDFs, but requires significant specialized training and effort for each document.
+- HTML content is generally more accessible to search engines, and even within a page, HTML content is often more searchable and scannable for users seeking specific information.
+- HTML content is much more responsive-friendly (especially on responsive websites), and some systems don’t display PDFs within the browser.  This makes for a confusing user experience and may cause some users to be unable to view or find the PDF at all.
+Here are some alternate approaches for situations in which people often choose PDFs:
+- When the content includes images, tables, or other graphics that you aren’t sure how to display in existing page templates:  Instead, work with a designer or your web publishing team to explore how you can translate the information you need into native web content.
+- Formal or policy documents that are infrequently or never updated:  Instead of using PDF to convey permanence, use document structure, clear timestamps, and design cues to help users understand the context they need to interpret the document.
+- Manuals or other long documents:  These are especially crucial to make available as HTML content, especially because they often need to be kept up-to-date as technology or processes change.  If you expect users to need offline access, support PDF as an alternate format or ensure clean, useful print stylesheets so that users can generate their own PDF.
+PDF-first may be the appropriate choice for content that’s primarily and only intended for print use.  This might include brochures, business cards, or forms that must submitted as paper copies. (Though a better long-term approach is to change forms and processes so people can submit soft copies or complete the form online.)
+If you do choose to present content in PDF, remember to ensure the information is also available on your website in an accessible, linkable, and responsive HTML format.
+Avoid using formats for which users need specific, proprietary software (for instance, Microsoft Word, PowerPoint, Pages).
 
 
 ### Markdown
