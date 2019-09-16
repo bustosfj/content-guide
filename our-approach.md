@@ -1,3 +1,9 @@
+---
+layout: default
+title: Our Approach
+nav_order: 3
+---
+
 # Our Approach
 Tips and standards for developing user-centered content.
 
