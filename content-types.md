@@ -1,3 +1,9 @@
+---
+layout: default
+title: Content Types
+nav_order: 6
+---
+
 ## Content Types
 Detailed guidance for Web and print elements
 
