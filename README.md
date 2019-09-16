@@ -2,9 +2,8 @@
 How to plan, write, and manage content at Defions
 
 ### Introduction
-[How to use this guide](http://content-guide.defions.solutions/introduction)
-
-[Resources](http://content-guide.defions.solutions/resources)
+- [How to use this guide](http://content-guide.defions.solutions/introduction)
+- [Resources](http://content-guide.defions.solutions/resources)
 
 ### Our Approach
 Tips and standards for developing user-centered content.
