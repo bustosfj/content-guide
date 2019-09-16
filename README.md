@@ -93,6 +93,109 @@ Here’s an example of how you might transform a too-long sentence into somethin
 Use:
 - Unfortunately, we can’t replace lost or stolen passes.  Get a new pass by visiting everykidinapark.gov and signing up again.
 
+### Use plain language
+U.S. government websites are for everyone.  The content they contain should be as straightforward as possible.
+One of the best ways to make content clear and usable is to use plain language.  When we use words people understand, our content is more findable, accessible, and inclusive.  Plain language is also mandatory for all federal government websites.
+When we use jargon in our writing, we risk losing users’ trust. Government, legal, business jargon are often vague or unfamiliar to users, and can lead to misinterpretation.
+Another temptation that can hurt readability is figurative language: it often doesn’t say what you actually mean, and can make your content more difficult to understand.  For example:
+- drive (you can only drive vehicles, not schemes or people)
+- drive out (unless it’s cattle)
+- going forward (unless you’re giving directions)
+- one-stop shop (we’re the government, not a big box store)
+In most cases, you can avoid these figures of speech by describing what you’re actually doing. Be open and specific.
+If you’re struggling to use plain language, try writing conversationally. Picture your audience and write as if you were talking to them one-on-one, with the authority of someone who can actively help.
+#### Don’t use formal or long words when easy or short ones will do.  
+Use buy instead of purchase, help instead of assist, about instead of approximately, and so on.
+Plain language lists can help spot problem words and consider alternatives, but keep in mind that plain language is more than just a list of words to avoid—it’s a way of writing.
+#### Words to avoid
+- agenda (unless you’re talking about a meeting)
+- advancing
+- collaborate (use working with)
+- combating (use working against or fighting)
+- commit or pledge (we need to be more specific — we’re either doing something or we’re not)
+- countering (use answering or responding)
+- deliver (pizzas, mail, and services are delivered — not abstract concepts like improvements or priorities)
+- deploy (unless you’re talking about the military or software)
+- dialogue (we speak to people)
+- disincentivize or incentivize
+- empower
+- execute (use run or do)
+- facilitate (instead, say something specific about how you are helping)
+- focusing
+- foster (unless it’s children)
+- illegals or illegal aliens (use undocumented immigrants)
+- impact or impactful
+- initiate (use start)
+- innovative (use words that describe the positive outcome of the innovation)
+- in order to (use to)
+- key (unless it unlocks something, use important or omit)
+- land (as a verb only use if you’re talking about aircraft)
+- leverage (unless you use it in the financial sense)
+- liaise (use collaborate, work with, or partner with)
+- modify (use change instead)
+- overarching
+- progress (what are you actually doing?)
+- promote (unless you’re talking about an ad campaign or some other marketing promotion)
+- robust
+- simple or simply (use straightforward, uncomplicated, or clear, or leave the descriptor out altogether)
+- slimming down (processes don’t diet)
+- streamline
+- strengthening (unless you’re referring to bridges or other structures)
+- tackling (unless you’re referring to football or another contact sport)
+- thought leader (refer to a person’s accomplishments)
+- touchpoint (mention specific system components)
+- transforming (what are you actually doing to change it?)
+- user testing (use user research or usability testing)
+- utilize (use use)
+
+#### When to use legal and technical terms
+Present complicated information clearly so it’s easier to understand. If you need to include legal terms or technical language, include a short, plain-language summary or define your terms up front.
+It’s fine to use technical terms when they’re appropriate for the audience or the situation, but you need to explain what they mean on the first reference.
+If you’re publishing source code, see the Defions Style Guide for tips on making the project easy to use and understand.
+
+#### Additional resources
+- Federal Plain Language Guidelines
+- Avoiding legal, foreign, and technical jargon
+- King County: Shorter, simpler words
+- Gov.uk: Plain English and Words to avoid
+
+### Structure the content
+Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.
+#### Important information first
+Online, users tend to scan text until they find the information they need. No matter how carefully you craft your content, most people will only read 25 percent of it.  This statistic isn’t meant to dishearten; rather, we believe it underscores the importance of getting content right.
+Put the most important information in the first two paragraphs.  That’s the section users are most likely to read. In journalism, this technique is called the “inverted pyramid.”
+### Break up text
+Large chunks of text can overwhelm readers.  Use subheads and bullet points; they provide clear narrative structure for readers in a hurry.  Put information-carrying words at the beginning of the phrase, and use the active voice.
+Instead of:
+- Looking into the regulation of campaign finances
+Use:
+- Campaign finance law explained
+
+If you’re wrangling a lot of data, tables can help you visualize that content.  Long paragraphs cluttered with numbers or dates are more difficult to scan than, for example:
+Report type  |  Dates covered  |  Due
+Quarterly (Form 3, 3Z, 3L)  |  January 1–March 31  |  April 15
+April 1–June 30	July 15
+July 1–September 30	October 15
+October 1–December 31	January 31
+
+#### Don’t use FAQs
+Like our peers at GDS, we strongly discourage writing FAQs, or Frequently Asked Questions.
+FAQs:
+- Are hard to read and search for
+- Duplicate other content on your site
+- Are usually not questions asked by the public
+- Mean that content is not where people expect to find it—it needs to be in context
+If you’re thinking about posting FAQs, review the related content on your site and look for ways to improve it.  Take the necessary steps to give users the best possible experience.
+Ask yourself:
+- Is the content organized in a logical way?
+- Can you group similar topics together?
+- Is it easy to find the right answer?
+- Is it clear and up-to-date?
+If people are asking similar questions, the existing content isn’t meeting their needs.  Perhaps you need to rewrite it or combine several pieces of content. Pay attention to what users are asking for and find the best way to guide them through the process.
+
+
+
+
 
 
 ### Markdown
