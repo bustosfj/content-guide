@@ -1,3 +1,46 @@
+# Content Guide
+How to plan, write, and manage content at Defions
+
+### Introduction
+How to use this guide
+Resources
+
+### Our Approach
+Tips and standards for developing user-centered content.
+
+Content principles
+Address the user
+Avoid duplication
+Be consise
+Use plain language
+Structure the content
+Keep refining
+Giving and receiving feedback
+Make content web-friendly
+
+### Our Style
+Grammer, spelling, and mechanics
+
+Abbreviations and acronyms
+Active voice
+Capitalization
+Inclusive language
+Names
+Numbers
+Punctuation
+Specific words and phrases
+Voice and tone
+
+Content Types
+Detailed guidance for web and print elements
+
+Forms
+Headings and titles
+Images
+Style guides
+Technical and interface writing
+Trademarks and brands
+URLs and Files Names
 
 
 
