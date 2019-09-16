@@ -14,4 +14,4 @@ search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
+color_scheme: 
