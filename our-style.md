@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Our Style
+nav_order: 4
+---
+
 # Our Style
 Tips and standards for developing user-centered content.
 
