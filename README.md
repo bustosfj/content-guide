@@ -587,7 +587,9 @@ At Defions, we like to communicate in a friendly, straightforward way. We consid
 
 We believe that government communication can — and should — be fun and easy to read, and our voice represents this.
 Here are a few sentences, taken from this content guide, that exemplify our voice:
-- We created this guide for reference on an as-needed basis.  It’s here when you’re wondering whether to capitalize the word federal, for instance, or when you’re wondering how to create a friendly, informational tone.
+'''
+We created this guide for reference on an as-needed basis.  It’s here when you’re wondering whether to capitalize the word federal, for instance, or when you’re wondering how to create a friendly, informational tone.
+'''
 
 #### Use contractions
 In all of the communication we produce, we want to create a strong connection with our users.  We want to get them the information they need in a straightforward way and show that we know what’s important to them.  As a vendor for government organizations, we need to sound somewhat official; we also recognize that official doesn’t need to translate to stuffy, archaic, or aloof.
