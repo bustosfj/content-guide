@@ -1,9 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
 
-layout: default
-title: How to use this guide
-nav_order: 1
+
 
 layout: default
 title: Resources
