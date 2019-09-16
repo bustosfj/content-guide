@@ -30,7 +30,7 @@ As we created this guide, we also referred to these resources:
 ### Related links
 - 18F Accessibility Guide
 - 18F Visual Identity Guide
-- U.S. Web Design System
+- [U.S. Web Design System] (https://designsystem.digital.gov)
 - 18F Blog: Content Design
 - DigitalGov: Style Guides by Government Agencies
 
