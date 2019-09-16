@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resources
+nav_order: 2
+---
+
 # Resources
 We adapted this guide from GOV.UK’s work, and we’d like to thank their content team for championing plain language and information accessibility.
 
