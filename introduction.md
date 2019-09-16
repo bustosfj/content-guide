@@ -1,6 +1,4 @@
-# Introduction
-
-### How to use this guide
+# How to use this guide
 This guide was developed for colleagues of Defions Solutions. 
 
 ### Overview
