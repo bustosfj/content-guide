@@ -1,5 +1,10 @@
-# Personas
+---
+layout: default
+title: Personas
+nav_order: 5
+---
 
+# Personas
 
 ### Contracting Officers & Program Managers
 What is a contract for our business is a career decision for contracting officers (COs) and program managers.  On most acquisitions, the PM and the CO (or KO, as it's often abbreviated, particularly in defense) are the most crucial decision-makers.  The program manager will be responsible for oversight of all the requirements in the proposal and of its execution once underway.  The CO/KO can later modify the contract to add scope.  While PMs and COs appreciate the big idea, they are also intensely interested in the nuts and bolts and our capability to deliver. Every contract is an act of trust between these two positions and our company.  These are experienced government personnel with whom we want to build a long-term brand relationship as a trusted advisor. Depending on the size of the contract, they may not be subject matter experts in all technologies involved, but will likely understand enough to separate contractor-speak from actual capability.  Delivery capability matters to this persona.
