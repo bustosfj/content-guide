@@ -20,8 +20,7 @@ As we created this guide, we also referred to these resources:
 - [MailChimp Content Style Guide](https://styleguide.mailchimp.com/)
 
 ### Related links
-- 18F Accessibility Guide
-- 18F Visual Identity Guide
+- [Accessibility Guide](http://accessibility.defions.solutions/)
+- [Visual Identity Guide]()
 - [U.S. Web Design System](https://designsystem.digital.gov)
-- 18F Blog: Content Design
 - [DigitalGov: Style Guides by Government Agencies](https://digital.gov/resources/style-guides-by-government-agencies/)
